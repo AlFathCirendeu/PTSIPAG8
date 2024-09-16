@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="E68AE1F5-398A-43EA-B8A5-2F7239D3BA42" version="0">
+	<info>
+		<title>PTS Ganjil IPA Grade 8 24 25</title>
+		<description/>
+	</info>
+	<files index="id29" thumbnail="id25" totalSize="6796244">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/html5-unsupported.html</file>
+		<file id="id10">data/images/img-1171217f6eca26edc470d7a055b60865325008f0.png</file>
+		<file id="id11">data/images/img-150d54bccbbc41dded0aee1e2b6b2c234e19eed6.png</file>
+		<file id="id12">data/images/img-1ac34d9c45c7469e45e5b54f783639b3d6fc0819.jpg</file>
+		<file id="id13">data/images/img-1b6c1aa12d6396ec10faecff927bf9ca9f0b6f26.png</file>
+		<file id="id14">data/images/img-2db2116510bc5b9cff22f444cb0f1c557f7b8f2c.jpg</file>
+		<file id="id15">data/images/img-30309436d0b0bdada2cbae6dff811b75a49e1cb7.jpg</file>
+		<file id="id16">data/images/img-408d623e6b319325721c48bd1a798f6a644e530f.png</file>
+		<file id="id17">data/images/img-4847dd456a4108ccb4d5dbaa8493aa1ef0191629.png</file>
+		<file id="id18">data/images/img-62f7dea1e97392d49bb98123a5fe6cc513f0dd27.jpg</file>
+		<file id="id19">data/images/img-7d71f28211d4fe8630019cfc23f8f474d06e243a.jpg</file>
+		<file id="id20">data/images/img-ac5c096b6af0adc69392a32909226d57d0caeae7.jpg</file>
+		<file id="id21">data/images/img-c2372fe58ac0f1f2a3613265051ff14130950856.jpg</file>
+		<file id="id22">data/images/img-ff09f745421985f2b45abb2cdf30216a51def140.jpg</file>
+		<file id="id23">data/ismplayer/app_store2x.png</file>
+		<file id="id24">data/ismplayer/play.svg</file>
+		<file id="id25">data/ismplayer/preview.png</file>
+		<file id="id26">data/ismplayer/style.css</file>
+		<file id="id27">data/ismplayer/style_mini.css</file>
+		<file id="id28">data/player.js</file>
+		<file id="id29">index.html</file>
+		<file id="id30">ismplayer.html</file>
+		<file id="id31">preview.png</file>
+	</files>
+</presentation>
+
